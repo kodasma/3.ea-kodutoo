@@ -1,3 +1,16 @@
+Extension - Kevin Kodasma ja Kaspar Aasmäe
+
+# Meelelahutslik eesmärk
+
+# Rakendus annab võimaluse:
+
+1. Pop-up aknas mängida ussimängu,
+2. Proovida mitu korda oled suuteline järjest ühte nuppu klikkima,
+
+# samal ajal kui näiteks ootad mõne veebilehe tegevuse järgi.
+
+
+
 # 3. kodutöö – Chrome extension
 
 Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetud. Soovi korral võib ka teha Firefox'ile.
